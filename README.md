@@ -1,1 +1,2 @@
-# Telecommunication_services
+# Telecom company customer churn forecast
+The mobile operator found out: many customers use archival tariffs. They want to build a system that can analyze customer behavior and offer users a new tariff: "Smart" or "Ultra". I have at my disposal data on the behavior of customers who have already switched to these tariffs (from the draft course "Statistical Data Analysis"). You need to build a model for the classification problem that will select the appropriate rate.
